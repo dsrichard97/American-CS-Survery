@@ -21,7 +21,7 @@ The American Community Survey (ACS) is an annual survey that collects detailed d
 * Data Visualization (Tableau)
 
 ## Project Description
-Trends Demogrpahic Overtime to be able to show a forecasted view of a temporal exploration between YoY. The years presented from the data range from 2013 to 2018. 
+To showcase a simple yet interactive dashboard that highlights housing affordability and commute patterns. You will allow users to filter and analyze the relationship between median rent, rent burden, and commute times.
 
 
 
