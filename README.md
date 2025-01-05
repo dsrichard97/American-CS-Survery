@@ -15,7 +15,7 @@ The American Community Survey (ACS) is an annual survey that collects detailed d
 * [To Learn more about the DATA SCHEMA - click here](https://github.com/dsrichard97/American-CS-Survery/blob/main/DATAschema.pdf)
 
 ### Methods Used
-* Data Cleaning (SQL/Google Bigquery)
+* [Data Cleaning (SQL/Google Bigquery)](https://github.com/dsrichard97/American-CS-Survery/blob/main/QUERYfetch.png)
 * EDA (Python)
 * Modifying Metrics (Python) 
 * Data Visualization (Tableau)
