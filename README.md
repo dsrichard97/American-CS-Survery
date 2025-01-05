@@ -11,8 +11,8 @@ The American Community Survey (ACS) is an annual survey that collects detailed d
 
 ### Resource
 * [Google Cloud](https://cloud.google.com/datasets?hl=en_US&_gl=1*4mkm9z*_ga*MTM1ODM3MTAyMS4xNzM2MTA3MjI0*_ga_WH2QY8WWF5*MTczNjEwNzIyNC4xLjEuMTczNjEwNzY3OC4zLjAuMA..)
-* American Community Survey (ACS)
-* To Learn more about the DATA SCHEMA - click here
+* [American Community Survey (ACS)](https://www.census.gov/programs-surveys/acs)
+* [To Learn more about the DATA SCHEMA - click here]()
 
 ### Methods Used
 * Data Cleaning (SQL/Google Bigquery)
